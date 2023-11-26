@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1700979773 source:c:\users\dell\music\tetris\main.cpp
+	<graphics.h>
+	<Game.h>
+
+1701024249 source:c:\users\dell\music\tetris\src\block.cpp
+	<graphics.h>
+	"Block.h"
+
+1700973085 c:\users\dell\music\tetris\include\block.h
+
+1700980791 source:c:\users\dell\music\tetris\src\blocks.cpp
+	"Blocks.h"
+	"Block.h"
+
+1700464790 c:\users\dell\music\tetris\include\blocks.h
+	"Block.h"
+
+1701024092 source:c:\users\dell\music\tetris\src\board.cpp
+	"Board.h"
+	<iostream>
+	<graphics.h>
+	<vector>
+
+1701024092 c:\users\dell\music\tetris\include\board.h
+	"Block.h"
+
+1701024092 source:c:\users\dell\music\tetris\src\game.cpp
+	"Game.h"
+	<graphics.h>
+	<iostream>
+	<conio.h>
+	"Block.h"
+	"Board.h"
+	<time.h>
+
+1700970001 c:\users\dell\music\tetris\include\game.h
+	<graphics.h>
+	<iostream>
+	<conio.h>
+	"Block.h"
+	<Blocks.h>
+	"Board.h"
+	<time.h>
+
